@@ -10,3 +10,9 @@
 
 ### Losing Game
 ![Losing Round](./images/fail.png)
+
+### Calc-Games
+![brain-calc](./images/brain-calc.png)
+
+### Brain GCD
+![gcd-games](./images/gcd-games.png)
