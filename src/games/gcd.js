@@ -1,4 +1,4 @@
-import runGame from '../index.js';
+import  runGame  from '../index.js';
 
 const getGcd = (a, b) => {
   const min = Math.min(a, b);
@@ -26,7 +26,7 @@ const generateRoundData = () => {
   return [question, answer];
 };
 const startGcdGame = () => {
-const description = 'Find the greatest common divisor of given numbers.';
-runGame(description, generateRoundData);
-}
+  const description = 'Find the greatest common divisor of given numbers.';
+  runGame(description, generateRoundData);
+};
 export default startGcdGame;

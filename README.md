@@ -16,3 +16,7 @@
 
 ### Brain GCD
 ![gcd-games](./images/gcd-games.png)
+
+### Brain-Progression
+![brain-progression](./images/Brain-progression.png)
+

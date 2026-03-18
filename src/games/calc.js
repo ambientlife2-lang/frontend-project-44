@@ -16,7 +16,7 @@ const generateRoundData = () => {
     case '-':
       correctAnswer = num1 - num2;
       break;
-    case '*': 
+    case '*':
       correctAnswer = num1 * num2;
       break;
     default:
@@ -24,7 +24,7 @@ const generateRoundData = () => {
   }
   const finalAnswer = String(correctAnswer);
   return [question, finalAnswer];
-}
+};
 const runCalcGame = () => runGame(description, generateRoundData);
 
 export default runCalcGame;
